@@ -1,0 +1,24 @@
+What is an LLM?
+ - A Large Language Model is a neural network trained on massive text data 
+ - It predicts the next word/token
+👉 Example:
+
+"I love eating…" → "pizza"
+
+Key Concepts
+1. Tokens
+ - Words are broken into smaller parts
+ - Example: "ChatGPT is amazing" → ["Chat", "GPT", " is", " amazing"]
+2. Transformer Architecture
+Based on attention mechanism
+Model understands context, not just sequence
+
+👉 Important concept:
+
+Self-attention = "Which words matter most?"
+3. Prompting
+Input you give to LLM
+Types:
+Zero-shot
+Few-shot
+Chain-of-thought
